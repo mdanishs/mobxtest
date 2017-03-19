@@ -1,1 +1,3 @@
-#A test repo to reproduce an issue when using react-router with mobx-react observer
+Toggle the redirect state variable to allow redirects
+
+All the routes are defined in the App.jsx which is a observer from mobx-react
